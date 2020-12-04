@@ -66,6 +66,10 @@ ling_hooks:
 History Log
 =============
 
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.0 -- 2020-08-17
 
     - initial commit
