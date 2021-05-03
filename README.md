@@ -71,6 +71,10 @@ ling_hooks:
 History Log
 =============
 
+- 1.0.7 -- 2021-05-03
+
+    - Update dependencies to Ling.Light_Events (pushed by SubscribersUtil)
+
 - 1.0.6 -- 2021-05-03
 
     - Update dependencies to Ling.Light_Events (pushed by SubscribersUtil)
